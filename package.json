@@ -1,0 +1,30 @@
+{
+  "name": "identity-project",
+  "version": "1.0.0",
+  "description": "identity-project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/defcon20/identity-project.git"
+  },
+  "keywords": [
+    "identity",
+    "project",
+    "oauth",
+    "securing",
+    "the",
+    "cloud"
+  ],
+  "author": "Te-Wei David Liou",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/defcon20/identity-project/issues"
+  },
+  "homepage": "https://github.com/defcon20/identity-project",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
