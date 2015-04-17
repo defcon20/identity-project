@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/defcon20/identity-project",
   "dependencies": {
-    "express": "^4.12.3"
+    "express": "^4.12.3",
+    "googleapis": "^2.0.2"
   }
 }
